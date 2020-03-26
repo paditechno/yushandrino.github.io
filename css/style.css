@@ -38,7 +38,7 @@
 	background-size: cover;
 	background-attachment: fixed;
 	text-align: center;
-	height: 950px;
+	height: 900px;
 	background-position: 0 -20px;
 }
 
@@ -224,7 +224,7 @@
 		background: url(../image/450035.jpg);
 		background-size: cover;
 		background-attachment: fixed;
-		height: 950px;
+		height: 900px;
 		text-align: center;
 		background-position: 0 20px;
 	}
