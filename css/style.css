@@ -22,7 +22,18 @@ top - left - bottom - right
 }
 
 .navbar-brand{
-	font-size: 18px;
+	font-size: 25px;
+}
+
+.navbar-dark .navbar-toggler{
+	height: 50px;
+	width: 50px;
+}
+
+.navbar-toggler-icon{
+	width: 2em;
+	height: 2em;
+	color: #fff;
 }
 
 .jumbotron{
@@ -350,6 +361,7 @@ ul li .nav-link{
 		transition: 0.3s;
 		margin: 20px 50px 20px 50px;
 		font-weight: 800;
+		font-size: 45px;
 		text-shadow: 2px 2px 2px #333;
 	}
 
@@ -542,3 +554,4 @@ ul li .nav-link{
 		font-size: 14px;
 	}
 }
+
